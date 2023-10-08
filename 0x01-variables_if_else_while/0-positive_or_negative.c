@@ -3,7 +3,7 @@
 #include <time.h>
 
 /*
- * main - function to assign random number to int n
+ * main -  assign random number to int n
  * it executes and print it
  * Return: Always 0 (success)
  */
