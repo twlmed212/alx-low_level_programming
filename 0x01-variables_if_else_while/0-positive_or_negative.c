@@ -6,7 +6,7 @@
  * main - Prints a random number and states whether
  * it executes and print it
  * Return: Always 0 (success)
- */
+*/
 int main(void)
 {
 	int n;
